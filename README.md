@@ -1,0 +1,2 @@
+# Implementation for Passport Local Strategy
+The implementation is simple. All you need is mySQL up and running on your computer. Clone the repo and install all the dependencies. Hit npm and the project will come online. There is only a login and signup form where you can signup which will save the username and password in mysql database. I am using agron2 to hash, store and compare the passowrds. 
